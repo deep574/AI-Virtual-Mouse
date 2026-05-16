@@ -1,4 +1,6 @@
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/53745571-4679-4616-8b1e-1e9b90146b97" /># 🖱️ AI Virtual Mouse
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/84a4a2eb-2a33-4c27-876f-ae9e38f81105" />
+
+🖱️ AI Virtual Mouse
 
 An AI-powered Virtual Mouse system built using Python, OpenCV, and MediaPipe that allows users to control their computer using hand gestures in real time.
 
